@@ -26,7 +26,7 @@ Established in 2016 and officially expanded in 2019, Tulpo Software is a pioneer
 
 •	Docker, Linux, gRPC, database (MySQL, Postgres), API, continuous integration
 
-•	 Knowledge of peer-to-peer distributed networks
+•	Knowledge of peer-to-peer distributed networks
 
 •	Know how to deploy and configure Blockchain nodes such as Bitcoin, Ethereum, EOS
 
@@ -42,9 +42,9 @@ Established in 2016 and officially expanded in 2019, Tulpo Software is a pioneer
 
 •	You will get involved in developing a brand new product from scratch alongside a talented team
 
-foobar.pluralize ( 'Working time' ): 8’30 a.m – 17’45p.m from Monday to Saturday ( 2 days of annual leave per month)
+# foobar.pluralize ( 'Working time' ): 8’30 a.m – 17’45p.m from Monday to Saturday ( 2 days of annual leave per month)
 
-foobar.pluralize ( 'Working place' ): 4th Floor Golden Land Building– 275 Nguyen Trai, Thanh Xuan, Hanoi
+# foobar.pluralize ( 'Working place' ): 4th Floor Golden Land Building– 275 Nguyen Trai, Thanh Xuan, Hanoi
 
 # Contact information:
 
